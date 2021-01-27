@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858551876614",
+    "firebase_url": "https://rentronics-ea208.firebaseio.com",
+    "project_id": "rentronics-ea208",
+    "storage_bucket": "rentronics-ea208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858551876614:android:20651bde2ae200390cd787",
+        "android_client_info": {
+          "package_name": "com.example.rentronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858551876614-53rfr4vl0intjjspsaubl9ff9m7ote04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFISNMrGBKGMLHLq5Vq_yE2r1vGnpz9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858551876614-53rfr4vl0intjjspsaubl9ff9m7ote04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
